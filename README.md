@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Last edited on: 30/06/2022
+<!--Last edited on: 30/06/2022
 [![My Skills](https://skillicons.dev/icons?i=autocad,arduino,c,vscode,gmail,instagram,linkedin,figma&theme=light)](https://skillicons.dev)
+-->

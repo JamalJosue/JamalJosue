@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <!--Last edited on: 30/06/2022
 [![My Skills](https://skillicons.dev/icons?i=autocad,arduino,c,vscode,gmail,instagram,linkedin,figma&theme=light)](https://skillicons.dev)
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py" />
+  </a>
+</p>
